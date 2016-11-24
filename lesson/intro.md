@@ -1,5 +1,10 @@
-
 # Вступительное занятие
+
+## Обзор проекта. Обучение Java.
+[![Видео вступительного занятия](https://img.youtube.com/vi/rUUhWUpzpUM/0.jpg)](https://www.youtube.com/watch?v=rUUhWUpzpUM)
+
+- <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
+- <a href="http://gkislin.ru/ru/cv.html">Резюме преподавателя Кислина Григория</a>
 
 ## Необходимое ПО
 -  <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">JDK8</a>
@@ -31,7 +36,7 @@
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/14917800/71887238-0e29-11e6-9830-e557901892b4.png)
 
-![image](https://cloud.githubusercontent.com/assets/18701152/14917769/5025e29c-0e29-11e6-9c7b-70b82966ccbe.png)
+![image](https://cloud.githubusercontent.com/assets/11200258/20598648/17409248-b25b-11e6-91b0-0c6a351cd59d.png)
 
 - Реализуйте класс `ArrayStorage`: хранение резюме на основе массива (методы `clear, get, save, delete, getAll, size`).
 - Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`: в IDEA слева на полях зеленая стрелка.
