@@ -31,7 +31,7 @@
 
 ## Домашнее задание
 
-Правка к видео: ArrayStorage.delete() - вместо `storage[i] = null` нужно `storage[size-1] = null`
+> Правка к видео: ArrayStorage.delete() - вместо `storage[i] = null` нужно `storage[size-1] = null`
 
 - Прочитать <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=4">Соглашения по именованию.</a>
 - Реализовать `ArrayStorage.update`
