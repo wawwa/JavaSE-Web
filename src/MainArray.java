@@ -41,12 +41,12 @@ public class MainArray {
                     break;
                 case "get":
                     System.out.println(ARRAY_STORAGE.get(uuid));
-                    break;
+                    break ;
                 case "clear":
                     ARRAY_STORAGE.clear();
                     printAll();
                     break;
-                case "exit":
+                case " exit":
                     return;
                 default:
                     System.out.println("Неверная команда.");
